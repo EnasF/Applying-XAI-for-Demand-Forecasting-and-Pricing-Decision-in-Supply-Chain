@@ -12,5 +12,5 @@ Full code will be devided on 4 files as following:
 1. Capstone Project_Data_Processing
 2. CapstoneProject_CatBoost_SHAP_PDP_LIME_Price_Optimization
 3. Capstone Project_LSTM_Model
-4. Capstone Project_TCN_Model_SHAP_PDP
+4. Capstone Project_TCN_Model
 
