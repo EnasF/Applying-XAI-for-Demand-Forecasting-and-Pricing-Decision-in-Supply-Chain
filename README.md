@@ -9,7 +9,8 @@ This Source Code for the implementation of the capstone project for Master's Deg
 *   Feature Engneering
 
 Full code will be devided on 4 files as following:
-1. Capstone Project  _G230001305_CRN20126_Data_Processing
-2. CapstoneProject_G230001305_CRN20126_CatBoost_SHAP_PDP_LIME_Price_Optimization
-3. Capstone Project _G230001305_CRN20126_LSTM_Model
-4. Capstone Project _G230001305_CRN20126_TCN_Model
+1. Capstone Project_Data_Processing
+2. CapstoneProject_CatBoost_SHAP_PDP_LIME_Price_Optimization
+3. Capstone Project_LSTM_Model
+4. Capstone Project_TCN_Model_SHAP_PDP
+
