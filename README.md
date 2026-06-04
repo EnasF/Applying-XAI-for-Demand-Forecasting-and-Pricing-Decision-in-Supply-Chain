@@ -14,3 +14,8 @@ Full code will be devided on 4 files as following:
 3. Capstone Project_LSTM_Model
 4. Capstone Project_TCN_Model
 
+Data Set used in this project :
+1. Walmart 5M Kaggle link here(https://www.kaggle.com/competitions/m5-forecasting-accuracy)
+2. Macroeconomic Indicators from US Goverment website gathered on the same period of walmart data.
+3. 
+
